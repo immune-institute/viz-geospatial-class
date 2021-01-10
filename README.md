@@ -1,2 +1,1 @@
-# viz-geospatial-class
-Geospatial class materials
+## VISUALIZATION GEOSPATIAL CLASS MATERIALS
